@@ -1,0 +1,1 @@
+### Code taken from https://www.baeldung.com/java-generating-barcodes-qr-codes
